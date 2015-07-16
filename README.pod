@@ -1,0 +1,7 @@
+=head1 NAME
+
+WWW::RealTime - Perl interface to realtime.co
+
+=head1 STATUS
+
+Still under development
